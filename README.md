@@ -3,6 +3,8 @@
 ## **Project: Reducing Hotel Booking Cancellations**
 End-to-end workflow linking **pre-treatment EDA**, **causal experiment**, and **policy/ROI**.
 
+# Notebook 00 - Contains all the report. 
+
 ---
 
 ## **Notebooks**
